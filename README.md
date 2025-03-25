@@ -1,4 +1,4 @@
-# Tumor Detection Using Deep Learning
+# Brain Tumor Detection Using Deep Learning
 
 ## Overview
 This project utilizes deep learning techniques to detect tumors from medical images. Using convolutional neural networks (CNNs), the model is trained to classify images and assist in early tumor detection, aiding medical professionals in diagnosis.
