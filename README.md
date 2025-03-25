@@ -8,7 +8,7 @@ This project utilizes deep learning techniques to detect tumors from medical ima
 Below is the project roadmap represented in three stages:
 
 ### 1. 
-![ScreenShot](221C8C41-26F6-45DD-A6BE-A6D09A1C8DF5_1_105_c.jpeg)  
+![ScreenShot](98783F3C-3809-4934-A881-667B32F8A5D4_1_201_a.jpeg)  
 
 ### 2.  
 ![ScreenShot](image1.jpeg) 
