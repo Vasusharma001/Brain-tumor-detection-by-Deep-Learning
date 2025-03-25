@@ -23,6 +23,20 @@ The dataset consists of medical images labeled as either tumor or non-tumor. Pro
 
 **Dataset Link:** [Your Dataset Link Here](https://your-dataset-link.com](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)  
 
+## Project Roadmap  
+
+Below is the project roadmap represented in three stages:
+
+### 1. 
+![ScreenShot](image1.jpeg)  
+
+### 2.  
+![ScreenShot](image1.jpeg) 
+
+### 3.  
+![ScreenShot](image1.jpeg)  
+
+
 
 ## Installation
 1. Clone the repository:
