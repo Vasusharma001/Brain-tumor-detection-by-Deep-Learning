@@ -34,7 +34,7 @@ Below is the project roadmap represented in three stages:
 ## Dataset  
 The dataset consists of medical images labeled as either tumor or non-tumor. Proper preprocessing and augmentation techniques have been applied to improve model performance.  
 
-**Dataset Link:** [Your Dataset Link Here](https://your-dataset-link.com](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)  
+**Dataset Link:** (https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)  
 
 
 ## Installation
