@@ -3,6 +3,19 @@
 ## Overview
 This project utilizes deep learning techniques to detect tumors from medical images. Using convolutional neural networks (CNNs), the model is trained to classify images and assist in early tumor detection, aiding medical professionals in diagnosis.
 
+## Project Roadmap  
+
+Below is the project roadmap represented in three stages:
+
+### 1. 
+![ScreenShot](221C8C41-26F6-45DD-A6BE-A6D09A1C8DF5_1_105_c.jpeg)  
+
+### 2.  
+![ScreenShot](image1.jpeg) 
+
+### 3.  
+![ScreenShot](221C8C41-26F6-45DD-A6BE-A6D09A1C8DF5_1_105_c.jpeg)  
+
 ## Features
 - Image classification for tumor detection
 - Deep learning model using CNNs
@@ -22,20 +35,6 @@ This project utilizes deep learning techniques to detect tumors from medical ima
 The dataset consists of medical images labeled as either tumor or non-tumor. Proper preprocessing and augmentation techniques have been applied to improve model performance.  
 
 **Dataset Link:** [Your Dataset Link Here](https://your-dataset-link.com](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)  
-
-## Project Roadmap  
-
-Below is the project roadmap represented in three stages:
-
-### 1. 
-![ScreenShot](image1.jpeg)  
-
-### 2.  
-![ScreenShot](image1.jpeg) 
-
-### 3.  
-![ScreenShot](image1.jpeg)  
-
 
 
 ## Installation
